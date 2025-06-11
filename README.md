@@ -34,7 +34,7 @@ Make sure you have Python and required libraries installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/CG-Python-Games.git
+git clone https://github.com/rohit-kandelkar/CG-Python-Games.git
 cd CG-Python-Games
 
 # (Optional) Create a virtual environment
